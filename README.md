@@ -3,7 +3,7 @@ An IOT based Water Level Management system.
 
 For this project, you will need the following pieces of hardware:
 
-1. Nodemcu ESP8266 ![](images/71ZUXpbgc1L.jpg =250x250)
+1. Nodemcu ESP8266 ![](images/71ZUXpbgc1L.jpg=250x250)
 2. Ultrasonic sensor
 3. Relay Module
 4. Jumper Wires
