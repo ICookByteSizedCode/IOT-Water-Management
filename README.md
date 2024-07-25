@@ -13,6 +13,8 @@ For this project, you will need the following pieces of hardware:
 <img src="images/11026-Jumper_Wires_Standard_7in._M_M_-_30_AWG__30_Pack_-01.jpg" width="200" height="200">
 5. Breadboard
 <img src="images/64-06.jpg" width="200" height="200">
+6. LCD Display
+<img src="images/lcd_photo.png" width="200" height="200">
 
 Steps to connect the wires:
 1. Connect the VCC pin of the water level sensor with the Vin pin of the NodeMCU.
