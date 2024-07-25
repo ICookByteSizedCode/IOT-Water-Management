@@ -6,6 +6,7 @@ For this project, you will need the following pieces of hardware:
 1. Nodemcu ESP8266 
 <img src="images/71ZUXpbgc1L.jpg" width="200" height="200">
 2. Ultrasonic sensor
+<img src="images/_yN0cJOpsQ9.jpeg" width="200" height="200">
 3. Relay Module
 4. Jumper Wires
 5. Breadboard
